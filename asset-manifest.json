@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Meeting-Hall-FrontEnd/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Meeting-Hall-FrontEnd/static/js/main.62338a1b.chunk.js",
+    "main.js.map": "/Meeting-Hall-FrontEnd/static/js/main.62338a1b.chunk.js.map",
+    "runtime-main.js": "/Meeting-Hall-FrontEnd/static/js/runtime-main.0cda5dcf.js",
+    "runtime-main.js.map": "/Meeting-Hall-FrontEnd/static/js/runtime-main.0cda5dcf.js.map",
+    "static/css/2.82ecc6d4.chunk.css": "/Meeting-Hall-FrontEnd/static/css/2.82ecc6d4.chunk.css",
+    "static/js/2.51155225.chunk.js": "/Meeting-Hall-FrontEnd/static/js/2.51155225.chunk.js",
+    "static/js/2.51155225.chunk.js.map": "/Meeting-Hall-FrontEnd/static/js/2.51155225.chunk.js.map",
+    "index.html": "/Meeting-Hall-FrontEnd/index.html",
+    "precache-manifest.6182ad099befbc3efe9d8cfe59ca4d6b.js": "/Meeting-Hall-FrontEnd/precache-manifest.6182ad099befbc3efe9d8cfe59ca4d6b.js",
+    "service-worker.js": "/Meeting-Hall-FrontEnd/service-worker.js",
+    "static/css/2.82ecc6d4.chunk.css.map": "/Meeting-Hall-FrontEnd/static/css/2.82ecc6d4.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Meeting-Hall-FrontEnd/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.51155225.chunk.js.LICENSE.txt": "/Meeting-Hall-FrontEnd/static/js/2.51155225.chunk.js.LICENSE.txt",
+    "static/media/Customer.png": "/Meeting-Hall-FrontEnd/static/media/Customer.4f21f4b8.png",
+    "static/media/Earth.jpg": "/Meeting-Hall-FrontEnd/static/media/Earth.5e0fb509.jpg",
+    "static/media/Mercury": "/Meeting-Hall-FrontEnd/static/media/Mercury.2a3f084f.bin",
+    "static/media/Venus.jpg": "/Meeting-Hall-FrontEnd/static/media/Venus.5ad4ebe5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cda5dcf.js",
+    "static/css/2.82ecc6d4.chunk.css",
+    "static/js/2.51155225.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.62338a1b.chunk.js"
+  ]
+}
