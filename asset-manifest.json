@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Meeting-Hall-FrontEnd/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Meeting-Hall-FrontEnd/static/js/main.80df6ae6.chunk.js",
-    "main.js.map": "/Meeting-Hall-FrontEnd/static/js/main.80df6ae6.chunk.js.map",
+    "main.js": "/Meeting-Hall-FrontEnd/static/js/main.c2b92413.chunk.js",
+    "main.js.map": "/Meeting-Hall-FrontEnd/static/js/main.c2b92413.chunk.js.map",
     "runtime-main.js": "/Meeting-Hall-FrontEnd/static/js/runtime-main.0cda5dcf.js",
     "runtime-main.js.map": "/Meeting-Hall-FrontEnd/static/js/runtime-main.0cda5dcf.js.map",
     "static/css/2.82ecc6d4.chunk.css": "/Meeting-Hall-FrontEnd/static/css/2.82ecc6d4.chunk.css",
     "static/js/2.44b40258.chunk.js": "/Meeting-Hall-FrontEnd/static/js/2.44b40258.chunk.js",
     "static/js/2.44b40258.chunk.js.map": "/Meeting-Hall-FrontEnd/static/js/2.44b40258.chunk.js.map",
     "index.html": "/Meeting-Hall-FrontEnd/index.html",
-    "precache-manifest.19e3c61bdca10a85384c71e8870684c2.js": "/Meeting-Hall-FrontEnd/precache-manifest.19e3c61bdca10a85384c71e8870684c2.js",
+    "precache-manifest.7c8a9fdd28f5f9fcbd73b98e1f352873.js": "/Meeting-Hall-FrontEnd/precache-manifest.7c8a9fdd28f5f9fcbd73b98e1f352873.js",
     "service-worker.js": "/Meeting-Hall-FrontEnd/service-worker.js",
     "static/css/2.82ecc6d4.chunk.css.map": "/Meeting-Hall-FrontEnd/static/css/2.82ecc6d4.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/Meeting-Hall-FrontEnd/static/css/main.5f361e03.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.82ecc6d4.chunk.css",
     "static/js/2.44b40258.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.80df6ae6.chunk.js"
+    "static/js/main.c2b92413.chunk.js"
   ]
 }

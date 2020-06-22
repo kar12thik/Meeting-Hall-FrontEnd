@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2d393443fb37f7d84bc18f9acffea9e",
+    "revision": "95dd612f20173381d5286ead66deade2",
     "url": "/Meeting-Hall-FrontEnd/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Meeting-Hall-FrontEnd/static/css/2.82ecc6d4.chunk.css"
   },
   {
-    "revision": "55e8a929c77170fecba4",
+    "revision": "9d4d1a570a38e02969ad",
     "url": "/Meeting-Hall-FrontEnd/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Meeting-Hall-FrontEnd/static/js/2.44b40258.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55e8a929c77170fecba4",
-    "url": "/Meeting-Hall-FrontEnd/static/js/main.80df6ae6.chunk.js"
+    "revision": "9d4d1a570a38e02969ad",
+    "url": "/Meeting-Hall-FrontEnd/static/js/main.c2b92413.chunk.js"
   },
   {
     "revision": "90cc67ccc65789695932",
