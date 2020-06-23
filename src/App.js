@@ -1,24 +1,47 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from "react";
+import "./App.css";
+import { Switch, Route, useHistory, useLocation } from "react-router-dom";
+import NavBar from "./components/UI/NavBar";
+import Rooms from "./containers/Rooms";
+import Customers from "./containers/Customer";
+import Home from "./containers/Home";
+import { Grid } from "@material-ui/core";
 
 function App() {
+  const location = useLocation();
+  const history = useHistory();
+
+  useEffect(() => {
+    if (location.pathname === "/Meeting-Hall-FrontEnd/" || location.pathname === "/Meeting-Hall-FrontEnd") {
+      history.replace("/");
+    }
+  }, [])
+  console.log(location)
+  console.log(history)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Grid container direction="column">
+        <Grid item>
+          <NavBar />
+        </Grid>
+        <Grid item container >
+          <Grid item xs={false} sm={2} />
+          <Grid item xs={12} sm={8}>
+            <Switch>
+            </Switch>
+              <Route path="/rooms">
+                <Rooms />
+              </Route>
+              <Route path="/customers">
+                <Customers />
+              </Route>
+              <Route exact path="/">
+                <Home />
+              </Route>
+          </Grid>
+          <Grid item xs={false} sm={2} />
+        </Grid>
+      </Grid>
     </div>
   );
 }
